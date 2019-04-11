@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 2: April 11, 2019
+
+**Today's Progress**: Added an asciidoc documentation
+
+**Thoughts** Easy to integrate but hard to fill the template.
+
+**Link(s) to work** [Media Manager](https://github.com/jacq42/media-manager)
+
 ## Day 1: April 10, 2019
 
 **Today's Progress**: Initialized a gradle project with Kotlin, Groovy and Spring Boot.
