@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 3: April 12, 2019
+
+**Today's Progress**: Implemented first models after event storming
+
+**Thoughts** I ♥ data classes in kotlin
+
+**Link(s) to work** [Media Manager](https://github.com/jacq42/media-manager)
+
 ## Day 2: April 11, 2019
 
 **Today's Progress**: Added an asciidoc documentation
