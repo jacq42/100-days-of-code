@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 5: April 14, 2019
+
+**Today's Progress**: Created a command handler
+
+**Thoughts** Lack of knowledge about axon needs to be eliminated
+
+**Link(s) to work** [Media Manager](https://github.com/jacq42/media-manager)
+
 ## Day 3: April 12, 2019
 
 **Today's Progress**: Implemented first models after event storming
