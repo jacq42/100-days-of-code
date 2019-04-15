@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 6: April 15, 2019
+
+**Today's Progress**: Implemented a first axon test
+
+**Thoughts** The right information is hard to find in the axon documentation
+
+**Link(s) to work** [Media Manager](https://github.com/jacq42/media-manager)
+
 ## Day 5: April 14, 2019
 
 **Today's Progress**: Created a command handler
