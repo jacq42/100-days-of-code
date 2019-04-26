@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 17: April 26, 2019
+
+**Today's Progress**: Extended first axon test
+
+**Thoughts** Should the axon framework be used in the domain layer?
+
+**Link(s) to work** [Media Manager](https://github.com/jacq42/media-manager)
+
 ## Day 6: April 15, 2019
 
 **Today's Progress**: Implemented a first axon test
