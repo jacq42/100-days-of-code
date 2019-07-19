@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+## Day 2: July 20, 2019
+
+**Today's Progress**: Added a REST controller and first version of read repository
+
+**Thoughts** JPA is not easy to implement
+
+**Link(s) to work** [Media Manager](https://github.com/jacq42/media-manager)
+
 ## Day 1: July 19, 2019
 
 **Today's Progress**: Cleaned up domain package
