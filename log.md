@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Day 4: July 22, 2019
+
+**Today's Progress**: Added the [pitest](http://pitest.org/) Plugin and a few more tests.
+
+**Thoughts** Mutations need to be killed ;-)
+
+**Link(s) to work** [Media Manager](https://github.com/jacq42/media-manager)
+
+## Day 3: July 21, 2019
+
+**Today's Progress**: Betatest for a new https://code-it-studio.de/ course
+
+**Thoughts** Very nice
+
+**Link(s) to work** [Code it!](https://code-it-studio.de/)
+
 ## Day 2: July 20, 2019
 
 **Today's Progress**: Added a REST controller and first version of read repository
