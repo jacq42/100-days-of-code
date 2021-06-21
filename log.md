@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+## Day 1: June 21, 2021
+
+**Today's Progress**: I tried to find out what to do (again).
+
+**Thoughts** Lots of things to update
+
+**Link(s) to work** [Media Manager](https://github.com/jacq42/media-manager)
+
+...
+
 ## Day 1: Oktober 2, 2019
 
 **Today's Progress**: I tried to find out what to do.
