@@ -18,3 +18,8 @@ The log of my #100DaysOfCode challenge. Started on [June 21, Monday, 2021].
 **Today's Progress**: Implemented readmodel with update events and query handler<br/>
 **Thoughts**: Spring boot + Jpa/H2 + Kotlin can be tricky<br/>
 **Link(s) to work**: [Media Manager](https://github.com/jacq42/media-manager)
+
+### R4D4
+**Today's Progress**: Made some quality checks with [Sonargraph](https://www.hello2morrow.com/products/sonargraph/explorer) and [ArchUnit](https://www.archunit.org)<br/>
+**Thoughts**: Clean code rules<br/>
+**Link(s) to work**: [Media Manager](https://github.com/jacq42/media-manager)
